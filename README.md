@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arief</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **C#, ASP.net**
+- 🌱 I’m currently learning **C#, ASP.net Core**
 
 - 💬 Ask me about **C#, Python, Javascript**
 
