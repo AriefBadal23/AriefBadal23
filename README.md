@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Arief</h1>
-<h3 align="center">A passionate Software developer</h3>
+### About Me
 
-- 🌱 I’m currently learning **C#, ASP.net Core**
+👋 Hi there! I’m Arief.I'm am an software development student at Rotterdam University of Applied Sciences. My journey into software development began in 2021, and ever since, I've been dedicated to learning the key technologies that define this field.
 
-- 💬 Ask me about **C#, Python, Javascript**
+💻 I’ve worked with Python, C#, JavaScript, and frameworks like React and Django. I also have experience with tools like Docker. Throughout this journey, I’ve built and contributed to projects that reflect my growing expertise.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🚀 My main focus is on backend development, but I’m equally comfortable working on frontend tasks when needed. I’m always exploring new technologies and seeking out opportunities to expand my skill set.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Feel free to explore the projects on my profile.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefbadal23&show_icons=true&locale=en" alt="ariefbadal23" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariefbadal23&" alt="ariefbadal23" /></p>
+### Technical Skills 🛠
+- **Languages:** C#, JavaScript, Python
+- **Frameworks & Libraries:** Flask, Django, React
+- **Tools & Platforms:** GitHub, Docker
+
+<hr>
+
+### Connect with Me
+
+📎 [LinkedIn](https://www.linkedin.com/in/arief-badal/)
